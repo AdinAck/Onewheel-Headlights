@@ -1,0 +1,37 @@
+"Source:","/Users/adinack/Projects/Onewheel Headlights/Headlights/Headlights.kicad_sch"
+"Date:","Wednesday, January 18, 2023 at 10:00:04 AM"
+"Tool:","Eeschema (6.0.6-1)-1"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","15"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Mouser","Part"
+"","","D1","D_Zener","Device:D_Zener","Package_TO_SOT_SMD:SOT-23","https://www.mouser.com/datasheet/2/609/ADR510-1503583.pdf","https://www.mouser.com/ProductDetail/Analog-Devices/ADR510ARTZ-REEL7?qs=WIvQP4zGaniqWHvI6aygmw%3D%3D","ADR510ARTZ-REEL7"
+"","","D2","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D3","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D4","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D5","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D6","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D7","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D8","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D9","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","D10","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"","","Q1","Q_NMOS_GSD","Device:Q_NMOS_GSD","Package_TO_SOT_SMD:SOT-23","https://www.mouser.com/datasheet/2/916/PMV65UNE-2301129.pdf","https://www.mouser.com/ProductDetail/Nexperia/PMV65UNER?qs=gH1BdSMZm8Uqz8rEFxNhsQ%3D%3D","PMV65UNER"
+"","","Q2","Q_NPN_BCE","Device:Q_NPN_BCE","Package_TO_SOT_SMD:TO-252-2","https://www.mouser.com/datasheet/2/916/MJD41C-2397701.pdf","https://www.mouser.com/ProductDetail/Nexperia/MJD41CJ?qs=ljCeji4nMDmeNoTu0xtScA%3D%3D","MJD41CJ"
+"","","R1","10k","Device:R_US","Resistor_SMD:R_0603_1608Metric","https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf","https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=sGAEpiMZZMvdGkrng054tw5%2FFYq5P%2FDoCx9UR%2FAPDkE%3D","ERJ-3EKF1002V"
+"","","R2","1k8","Device:R_US","Resistor_SMD:R_0603_1608Metric","https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf","https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1801V?qs=sGAEpiMZZMvdGkrng054tx7%2F6%252BNA3LAJ6snYRRVT2yo%3D","ERJ-3EKF1801V"
+"","","R3","2-33","Device:R_US","Resistor_SMD:R_1210_3225Metric","~","https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J330U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZd9o0AX64KC4%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J6R2U?qs=sGAEpiMZZMvdGkrng054t2bZ0yF35f3tL6Dlnn8Gkhg%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J3R3U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZ3GNyZKt9yOo%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J2R0U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZdspXbKsD6DU%3D","ERJ-P14J330U, ERJ-P14J6R2U, ERJ-P14J3R3U, ERJ-P14J2R0U"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Mouser","Part"
+"1","1","D1","D_Zener","Device:D_Zener","Package_TO_SOT_SMD:SOT-23","https://www.mouser.com/datasheet/2/609/ADR510-1503583.pdf","https://www.mouser.com/ProductDetail/Analog-Devices/ADR510ARTZ-REEL7?qs=WIvQP4zGaniqWHvI6aygmw%3D%3D","ADR510ARTZ-REEL7"
+"2","9","D2, D3, D4, D5, D6, D7, D8, D9, D10","LED","Device:LED","LED_SMD:LED_5050","https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf","https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D","L150-40905006000S0"
+"3","1","Q1","Q_NMOS_GSD","Device:Q_NMOS_GSD","Package_TO_SOT_SMD:SOT-23","https://www.mouser.com/datasheet/2/916/PMV65UNE-2301129.pdf","https://www.mouser.com/ProductDetail/Nexperia/PMV65UNER?qs=gH1BdSMZm8Uqz8rEFxNhsQ%3D%3D","PMV65UNER"
+"4","1","Q2","Q_NPN_BCE","Device:Q_NPN_BCE","Package_TO_SOT_SMD:TO-252-2","https://www.mouser.com/datasheet/2/916/MJD41C-2397701.pdf","https://www.mouser.com/ProductDetail/Nexperia/MJD41CJ?qs=ljCeji4nMDmeNoTu0xtScA%3D%3D","MJD41CJ"
+"5","1","R1","10k","Device:R_US","Resistor_SMD:R_0603_1608Metric","https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf","https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=sGAEpiMZZMvdGkrng054tw5%2FFYq5P%2FDoCx9UR%2FAPDkE%3D","ERJ-3EKF1002V"
+"6","1","R2","1k8","Device:R_US","Resistor_SMD:R_0603_1608Metric","https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf","https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1801V?qs=sGAEpiMZZMvdGkrng054tx7%2F6%252BNA3LAJ6snYRRVT2yo%3D","ERJ-3EKF1801V"
+"7","1","R3","2-33","Device:R_US","Resistor_SMD:R_1210_3225Metric","~","https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J330U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZd9o0AX64KC4%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J6R2U?qs=sGAEpiMZZMvdGkrng054t2bZ0yF35f3tL6Dlnn8Gkhg%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J3R3U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZ3GNyZKt9yOo%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J2R0U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZdspXbKsD6DU%3D","ERJ-P14J330U, ERJ-P14J6R2U, ERJ-P14J3R3U, ERJ-P14J2R0U"

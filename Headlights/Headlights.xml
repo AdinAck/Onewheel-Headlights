@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/adinack/Projects/Onewheel Headlights/Headlights/Headlights.kicad_sch</source>
+    <date>Wednesday, January 18, 2023 at 10:00:04 AM</date>
+    <tool>Eeschema (6.0.6-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Headlights.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Zener</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/609/ADR510-1503583.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Analog-Devices/ADR510ARTZ-REEL7?qs=WIvQP4zGaniqWHvI6aygmw%3D%3D</field>
+        <field name="Part">ADR510ARTZ-REEL7</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Part" value="ADR510ARTZ-REEL7"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Analog-Devices/ADR510ARTZ-REEL7?qs=WIvQP4zGaniqWHvI6aygmw%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b5c23a3-b99f-40da-a80a-a4437d4222b9</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bfa27b7-d9eb-4f36-b033-1244839fa449</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04dcdfc7-3a21-43a3-bfb1-617cab2dcd60</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d258fc6-e49f-4a5e-881d-ff4ff725bc5a</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>088d490f-c202-441e-a766-850ed7c62ae2</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6babb34c-7b53-4b48-8574-024fef54f99e</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>691a6e3a-963d-46c2-b177-740068bd528e</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52f01467-f6cd-4fef-8c89-e736fffd2d8c</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b908d8e-e76e-4ecf-8cd8-e7232a3328b9</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_5050</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/602/DS174_luxeon_5050_datasheet-2846501.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D</field>
+        <field name="Part">L150-40905006000S0</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Part" value="L150-40905006000S0"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Lumileds/L150-40905006000S0?qs=GedFDFLaBXHgr0RV2eE%252BbA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7ec64d2-a179-44a8-b1ad-8b69a900c290</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_GSD</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/916/PMV65UNE-2301129.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Nexperia/PMV65UNER?qs=gH1BdSMZm8Uqz8rEFxNhsQ%3D%3D</field>
+        <field name="Part">PMV65UNER</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Part" value="PMV65UNER"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Nexperia/PMV65UNER?qs=gH1BdSMZm8Uqz8rEFxNhsQ%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ed59d84-f495-4d3d-840f-f97b66a0f416</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NPN_BCE</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/916/MJD41C-2397701.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Nexperia/MJD41CJ?qs=ljCeji4nMDmeNoTu0xtScA%3D%3D</field>
+        <field name="Part">MJD41CJ</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="Part" value="MJD41CJ"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Nexperia/MJD41CJ?qs=ljCeji4nMDmeNoTu0xtScA%3D%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6341170f-0585-49ec-9433-5e321d0d5c17</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=sGAEpiMZZMvdGkrng054tw5%2FFYq5P%2FDoCx9UR%2FAPDkE%3D</field>
+        <field name="Part">ERJ-3EKF1002V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Part" value="ERJ-3EKF1002V"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=sGAEpiMZZMvdGkrng054tw5%2FFYq5P%2FDoCx9UR%2FAPDkE%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae71ae78-950c-43a8-9b3e-dfd8056e351f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k8</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf</datasheet>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1801V?qs=sGAEpiMZZMvdGkrng054tx7%2F6%252BNA3LAJ6snYRRVT2yo%3D</field>
+        <field name="Part">ERJ-3EKF1801V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Part" value="ERJ-3EKF1801V"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Panasonic/ERJ-3EKF1801V?qs=sGAEpiMZZMvdGkrng054tx7%2F6%252BNA3LAJ6snYRRVT2yo%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78b3afde-744e-4d02-8b76-4b381664a6aa</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2-33</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <fields>
+        <field name="Mouser">https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J330U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZd9o0AX64KC4%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J6R2U?qs=sGAEpiMZZMvdGkrng054t2bZ0yF35f3tL6Dlnn8Gkhg%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J3R3U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZ3GNyZKt9yOo%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J2R0U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZdspXbKsD6DU%3D</field>
+        <field name="Part">ERJ-P14J330U, ERJ-P14J6R2U, ERJ-P14J3R3U, ERJ-P14J2R0U</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Part" value="ERJ-P14J330U, ERJ-P14J6R2U, ERJ-P14J3R3U, ERJ-P14J2R0U"/>
+      <property name="Mouser" value="https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J330U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZd9o0AX64KC4%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J6R2U?qs=sGAEpiMZZMvdGkrng054t2bZ0yF35f3tL6Dlnn8Gkhg%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J3R3U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZ3GNyZKt9yOo%3D, https://www.mouser.com/ProductDetail/Panasonic/ERJ-P14J2R0U?qs=sGAEpiMZZMvdGkrng054t%252BB3dTvXmYJZdspXbKsD6DU%3D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Headlights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db1792ae-d0d3-456e-af72-fae1c98318fd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BCE">
+      <description>NPN transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/PWM">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="2" name="GNDREF">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="VS">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
